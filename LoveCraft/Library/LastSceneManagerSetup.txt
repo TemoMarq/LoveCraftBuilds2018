@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/LoveCraft/Scenes/LoveCraft.unity
+  isLoaded: 1
+  isActive: 1
